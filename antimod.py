@@ -1,5 +1,5 @@
 import sys
-print("usage: python3 antimod.py limiter leftovers multiple")
+print("usage: python3 antimod.py multiple leftovers limiter")
 
 antimod = []
 for x in range(int(sys.argv[1])):
