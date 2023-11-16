@@ -5,6 +5,9 @@ Theres this catch 22 to divination where in order for Mathematics to be Divine, 
 
 Usage: Python3 antimod.py multiplier leftover limiter
 
+![Screenshot 2023-11-16 1 05 07 PM](https://github.com/777388/Modtect/assets/96343159/f021ea2f-a8d7-4022-8d56-794d76187feb)
+
+
 ![Screenshot 2023-09-26 035652](https://github.com/777388/Modtect/assets/96343159/de16025c-cc38-43a4-a41e-0d42d6d886b1)
 
 
