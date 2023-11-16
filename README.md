@@ -1,5 +1,5 @@
 # Modtect
-Detect possible actual value in a Modulus based system
+Detect possible actual value in a Modulus based system (Resistance Included in factors when breaking past a limiter)
 
 Theres this catch 22 to divination where in order for Mathematics to be Divine, there has to be a reversing directive, this should allow that where Modulus is often used as a limiter.
 
